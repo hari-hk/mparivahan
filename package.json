@@ -6,8 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "build:firebase": "next build && next export out"
+    "lint": "next lint"
   },
   "dependencies": {
     "next": "15.0.3",
